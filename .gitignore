@@ -1,0 +1,7 @@
+node_modules
+.idea
+package-lock.json.idea
+.DS_Store
+node_modules
+*.png
+package-lock.json
